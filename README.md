@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aubrey-sherman
-- 👀 I’m interested in game design, brain puzzles, reading in parks, the perfect pourover, animal documentaries, Telecasters, and olives
+- 👀 I’m interested in game design, brain puzzles, pourovers, public libraries, and olives
 - 🌱 I’m currently learning NoSQL and Sequelize
 - 💞️ I’m looking to collaborate on building your dream app
 - 📫 How to reach me: https://aubreysherman.com
