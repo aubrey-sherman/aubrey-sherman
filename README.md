@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aubrey-sherman
 - 👀 I’m interested in game design, brain puzzles, pourovers, public libraries, and olives
 - 🌱 I’m currently learning NoSQL and Sequelize
-- 💞️ I’m looking to collaborate on building your dream app
+- 💞️ I’m looking to collaborate on mission-driven projects
 - 📫 How to reach me: https://aubreysherman.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can't wink! Or whistle! Help!
