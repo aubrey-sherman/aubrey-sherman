@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aubrey!
-- 👀 I'm a big fan of logic puzzles, public libraries, advocating for girls in STEM, and olives
+- 👀 I'm a big fan of logic puzzles, public libraries, and olives
 - 🌱 I’m currently exploring TensorFlow and deepening my Python skills
 - 📫 How to reach me: https://aubreysherman.com
 - ⚡ Fun fact: I can't wink! Or whistle! Help!
