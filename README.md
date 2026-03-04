@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aubrey!
 - 👀 I'm a big fan of logic puzzles, public libraries, and olives
-- 🌱 I’m currently exploring TensorFlow and deepening my Python skills
+- 🌱 Currently playing in p5.js
 - 📫 How to reach me: https://aubreysherman.com
 - ⚡ Fun fact: I can't wink! Or whistle! Help!
 
