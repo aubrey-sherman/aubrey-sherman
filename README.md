@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aubrey!
 - 👀 I'm a big fan of logic puzzles, public libraries, and olives
-- 🌱 Currently building in React with TypeScript
+- 🌱 Currently building in Next.js with TypeScript
 - 📫 How to reach me: https://aubreysherman.com
 
 <!---
